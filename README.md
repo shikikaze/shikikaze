@@ -1,4 +1,4 @@
-# shik
-vtuber, studying electronics engineering, making keyboards
+# shiki
+i do things
 
-[Twitch](https://twitch.tv/shiki_kaze)
+[Twitch](https://twitch.tv/shikiwoo)
